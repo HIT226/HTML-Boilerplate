@@ -9,10 +9,10 @@ website: {portfolio}
 /*
 	Vendor imports (libs etc)
 */
-@import 'vendor/_normalize.css';
-@import 'vendor/_browserupgrade.css';
+@import 'vendor/normalize.css';
+@import 'vendor/browserupgrade.css';
 
 /*
 	Our imports
 */
-@import 'imports/_typography.css';
+@import 'components/typography.css';
