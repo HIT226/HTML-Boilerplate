@@ -15,4 +15,4 @@ website: {portfolio}
 /*
 	Our imports
 */
-@import 'components/nav.css';
+@import 'lib/nav.css';
