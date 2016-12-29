@@ -15,4 +15,4 @@ website: {portfolio}
 /*
 	Our imports
 */
-@import 'components/typography.css';
+@import 'lib/typography.css';
